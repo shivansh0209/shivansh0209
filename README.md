@@ -45,7 +45,6 @@ Currently focused on:
 ## Connect
 
 * LinkedIn: https://www.linkedin.com/in/shivansh-pandey-487b99258/
-* GitHub: https://github.com/YOUR_USERNAME
 
 ---
 
